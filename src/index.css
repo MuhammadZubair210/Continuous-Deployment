@@ -39,7 +39,6 @@ ul>li:hover {
 }
 
 .done {
-  color: red;
   text-decoration: line-through;
 }
 
