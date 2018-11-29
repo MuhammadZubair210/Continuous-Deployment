@@ -39,7 +39,8 @@ ul>li:hover {
 }
 
 .done {
-  /* text-decoration: line-through; */
+  color: red;
+  text-decoration: line-through;
 }
 
 .undone {
